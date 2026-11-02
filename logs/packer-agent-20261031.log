@@ -1,0 +1,10 @@
+2026-10-31T02:14:07.318Z INFO  [JT-Automatic-Package] ch=packer-agent-07 seq=88213 task=PKG-20261031-041882 belt=B12 scan=OK weight=1.284kg dims=32x24x18 operator=张伟 operator_id=OP****217
+2026-10-31T02:14:08.004Z WARN  [JT-Automatic-Package] ch=packer-agent-07 seq=88214 task=PKG-20261031-041883 belt=B12 scan=RETRY code=EAN_TIMEOUT retry=1/3
+2026-10-31T02:14:09.771Z INFO  [JT-Automatic-Package] ch=packer-agent-07 seq=88215 task=PKG-20261031-041883 belt=B12 scan=OK weight=0.912kg dims=28x20x14 operator=张伟 operator_id=OP****217
+2026-10-31T02:14:11.052Z INFO  [JT-Automatic-Package] ch=packer-agent-07 seq=88216 task=PKG-20261031-041884 belt=B12 scan=OK weight=3.640kg dims=41x33x27 operator=李娜 operator_id=OP****083
+2026-10-31T02:14:12.884Z ERROR [JT-Automatic-Package] ch=packer-agent-07 seq=88217 task=PKG-20261031-041885 belt=B12 scan=FAIL code=BELT_JAM slot=B12-3 clear_ms=8420 operator=李娜 operator_id=OP****083
+2026-10-31T02:14:21.309Z INFO  [JT-Automatic-Package] ch=packer-agent-07 seq=88218 task=PKG-20261031-041885 belt=B12 scan=OK weight=2.105kg dims=36x26x22 operator=李娜 operator_id=OP****083
+2026-10-31T02:14:23.118Z INFO  [JT-Automatic-Package] ch=packer-agent-08 seq=88219 task=PKG-20261031-041886 belt=B14 scan=OK weight=0.486kg dims=22x16x11 operator=王强 operator_id=OP****441
+2026-10-31T02:14:24.902Z WARN  [JT-Automatic-Package] ch=packer-agent-08 seq=88220 task=PKG-20261031-041887 belt=B14 scan=RETRY code=DIM_UNSTABLE retry=1/3
+2026-10-31T02:14:26.470Z INFO  [JT-Automatic-Package] ch=packer-agent-08 seq=88221 task=PKG-20261031-041887 belt=B14 scan=OK weight=1.733kg dims=30x23x19 operator=王强 operator_id=OP****441
+2026-10-31T02:14:29.006Z INFO  [JT-Automatic-Package] ch=packer-agent-08 seq=88222 task=PKG-20261031-041888 belt=B14 scan=OK weight=5.271kg dims=48x37x30 operator=王强 operator_id=OP****441
